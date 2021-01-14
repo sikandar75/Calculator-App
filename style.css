@@ -1,0 +1,24 @@
+.main{
+    display: inline-block;
+    width: 50px;
+}
+.get{
+    width: 500px;
+    height: 300px;
+}
+.save{
+    width: 250px;
+    height: 30px;
+    margin-left: 2.5em;
+}
+.save1{
+    width: 242px;
+    height: 30px;
+    margin-left: 2.5em;
+    border: 2px solid;
+    background-color:#d6d0d0;
+}
+.f{
+    width: 87px;
+    height: 30px;
+}
